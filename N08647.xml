@@ -109,13 +109,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:011061_0000_0F854B8A415913D8"/>
-            <pb facs="tcp:011061_0001_0F854B8A63FD9B98" rendition="simple:additions"/>
+            <pb facs="unknown:011061_0000_0F854B8A415913D8"/>
+            <pb facs="unknown:011061_0001_0F854B8A63FD9B98"
+                rendition="simple:additions"/>
             <p>LIBERTY. A POEM.</p>
             <p>[Price Fifteen Shillings Currency.]</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:011061_0002_0F854B8B969EE4C0"/>
+            <pb facs="unknown:011061_0002_0F854B8B969EE4C0"/>
             <p>LIBERTY A POEM.</p>
             <p>By RUSTICUS.</p>
             <p>
@@ -125,13 +126,13 @@
                <hi>PHILADELPHIA:</hi> Printed by JOHN DUNLAP, in <hi>Market-Street,</hi> MDCCLXVIII.</p>
          </div>
          <div type="letter">
-            <pb facs="tcp:011061_0003_0F854B8BE488D438"/>
+            <pb facs="unknown:011061_0003_0F854B8BE488D438"/>
             <head>TO THE FARMER, <hi>Author of thoſe patriotic Letters on</hi> LIBERTY, <hi>which lately appeared in the</hi> Maryland Gazette.</head>
             <opener>
                <salute>SIR,</salute>
             </opener>
             <p>WAS it poſſible to conceal under the ſimple Title of FARMER, a Production which will for ever redound to the immortal Honor of the Com<g ref="char:EOLhyphen"/>poſer, the Author might have ſtill remained unſuſpect<g ref="char:EOLhyphen"/>ed; but when all is advanced in Defence of LIBERTY that poſſibly can be urged, and that too in ſuch ſtrik<g ref="char:EOLhyphen"/>ing and diſintereſted Colours as leave no Room to doubt the Force of Genuis, the diſtinguiſhed <hi>Patriot,</hi> and the <hi>zealous Friend,</hi> we can no longer remain doubtful in
-<pb n="iv" facs="tcp:011061_0004_0F854B8CA55DF2D0"/>reſpect to the Author. Urged by theſe Conſiderations, I have preſumed, Sir, to dedicate to you the following Poem; and if it contains the leaſt Merit, muſt do you the Juſtice to confeſs, the Peruſal of your <hi>Letters</hi> fur<g ref="char:EOLhyphen"/>niſhed me with ſome of the beſt Thoughts contained in the Performance: I only mention this as a Diſcharge of my Duty, and ſhould the following Compoſition be thought worthy your Notice in your leiſure Mo<g ref="char:EOLhyphen"/>ments, the moſt ſanguine Expectations of the Author will be totally accompliſhed. I have the Honor to be, with great Reſpect, SIR,</p>
+<pb n="iv" facs="unknown:011061_0004_0F854B8CA55DF2D0"/>reſpect to the Author. Urged by theſe Conſiderations, I have preſumed, Sir, to dedicate to you the following Poem; and if it contains the leaſt Merit, muſt do you the Juſtice to confeſs, the Peruſal of your <hi>Letters</hi> fur<g ref="char:EOLhyphen"/>niſhed me with ſome of the beſt Thoughts contained in the Performance: I only mention this as a Diſcharge of my Duty, and ſhould the following Compoſition be thought worthy your Notice in your leiſure Mo<g ref="char:EOLhyphen"/>ments, the moſt ſanguine Expectations of the Author will be totally accompliſhed. I have the Honor to be, with great Reſpect, SIR,</p>
             <closer>
                <signed>Your moſt Obedient, Humble Servant, <hi>RUSTICUS.</hi>
                </signed>
@@ -140,7 +141,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:011061_0005_0F854B8D69914028"/>
+            <pb facs="unknown:011061_0005_0F854B8D69914028"/>
             <head>LIBERTY.</head>
             <lg>
                <l>TRUTH long aſleep, awoke immers'd in Tears,</l>
@@ -154,7 +155,7 @@
                <l>While trembling LIBERTY, involv'd in Care,</l>
                <l>Foreſaw the <hi>Yoke</hi> her Sons would ſhortly wear;</l>
                <l>
-                  <pb n="6" facs="tcp:011061_0006_0F854B8E2CBE5498"/>
+                  <pb n="6" facs="unknown:011061_0006_0F854B8E2CBE5498"/>
 While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"And FREEDOM hung ſuſpended by a Thread;"</l>
                <l>Then, even then, to chear deſponding Grief,</l>
@@ -172,7 +173,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"And will the Offspring of their worthy Race</l>
                <l>"Contaminate their Blood by foul Diſgrace?</l>
                <l>
-                  <pb n="7" facs="tcp:011061_0007_0F854B8EE20D1638"/>
+                  <pb n="7" facs="unknown:011061_0007_0F854B8EE20D1638"/>
 "No, rather let Deſtruction ſwallow all,</l>
                <l>"'Tis Time to ſuffer when oblig'd to fall!</l>
                <l>"Tho' hoſtile Force ſhould Devaſtation ſpread,</l>
@@ -190,7 +191,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"When the <hi>Grand Charter</hi> groans beneath the Weight</l>
                <l>"Of all the machinating Wiles of State;</l>
                <l>
-                  <pb n="8" facs="tcp:011061_0008_0F854B8FAEF0E050"/>
+                  <pb n="8" facs="unknown:011061_0008_0F854B8FAEF0E050"/>
 "When <hi>Mi—ſt-rs</hi> to feed inſatiate Pride,</l>
                <l>"Their <hi>Truth,</hi> their <hi>Country</hi> and their K—G miſguide.</l>
                <l>"By <hi>Reaſon</hi> prompted (if you muſt obey)</l>
@@ -211,7 +212,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Tell them, tho' lock'd in Fate, the Thund'rer ſees</l>
                <l>"Fair LIBERTY declining by Degrees,</l>
                <l>
-                  <pb n="9" facs="tcp:011061_0009_0F854B9095BDDF48"/>
+                  <pb n="9" facs="unknown:011061_0009_0F854B9095BDDF48"/>
 "Encroaching <hi>Slavery</hi> lurking round the Land,</l>
                <l>"And <hi>Force deſpotic</hi> ſtretching forth her Hand.</l>
                <l>"Injurious Acts ſhould once the Subject bear,</l>
@@ -233,7 +234,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Each Step is nigher to complete its Aim,</l>
                <l>"And load the People with immortal Shame;</l>
                <l>
-                  <pb n="10" facs="tcp:011061_0010_0F854B9140965848"/>
+                  <pb n="10" facs="unknown:011061_0010_0F854B9140965848"/>
 "FREEDOM once loſt is not retriev'd again,</l>
                <l>"The Wound is mortal, and acute the Pain;</l>
                <l>"By ſly Gradations Injuries encreaſe,</l>
@@ -251,7 +252,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"<hi>True Greatneſs</hi> muſt from real <hi>Virtue</hi> riſe,</l>
                <l>"An honeſt Action never wants Diſguiſe.</l>
                <l>
-                  <pb n="11" facs="tcp:011061_0011_0F854B92040A2A18"/>
+                  <pb n="11" facs="unknown:011061_0011_0F854B92040A2A18"/>
 "Would <hi>Mi—ſt-rs</hi> while at the Helm be juſt,</l>
                <l>"And ſcorn for <hi>Lucre</hi> to betray their Truſt;</l>
                <l>"Would ſuch conſult the <hi>Int'reſt</hi> of the State,</l>
@@ -267,7 +268,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Attempts once made if not that Moment check'd,</l>
                <l>"The Public ſuffers through its own Neglect;</l>
                <l>
-                  <pb n="12" facs="tcp:011061_0012_0F854B92AA3E7400"/>
+                  <pb n="12" facs="unknown:011061_0012_0F854B92AA3E7400"/>
 "When once <hi>Obedience</hi> as a Duty reigns,</l>
                <l>"Deluded People faſten on their Chains;</l>
                <l>"Indignant Cuſtoms from Compliance flow,</l>
@@ -285,7 +286,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Aſſert your Claims, to <hi>Truth</hi> and <hi>Virtue</hi> truſt,</l>
                <l>"Be to yourſelves, your KING and COUNTRY juſt;</l>
                <l>
-                  <pb n="13" facs="tcp:011061_0013_0F854B93685E2AE0"/>
+                  <pb n="13" facs="unknown:011061_0013_0F854B93685E2AE0"/>
 "Capricious Fancies will the Courtier guide;</l>
                <l>"His Port <hi>Preferment,</hi> and his Pilot <hi>Pride;</hi>
                </l>
@@ -307,7 +308,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"And ſweat beneath the heavy Yoke of Fate.</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:011061_0014_0F854B9429502818"/>
+               <pb n="14" facs="unknown:011061_0014_0F854B9429502818"/>
                <l>"<hi>Nature</hi> and <hi>Truth</hi> in this grand Point agree,</l>
                <l>"None can be happy but the Man that's FREE;</l>
                <l>"None can the Bliſs of LIBERTY enſure,</l>
@@ -326,7 +327,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Yet ſome their are who guide the Helm of State;</l>
                <l>"Deſerving, virtuous, ſenſible and great;</l>
                <l>
-                  <pb n="15" facs="tcp:011061_0015_0F854B94F1751648"/>
+                  <pb n="15" facs="unknown:011061_0015_0F854B94F1751648"/>
 "Some who would ſcorn from Honor's Path to ſwerve,</l>
                <l>"Who draw their <hi>Virtues</hi> from the Prince they ſerve;</l>
                <l>"But ſuch, alas! are few—the Reaſon's plain,</l>
@@ -344,7 +345,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Of ev'ry noble Sentiment poſſeſt,</l>
                <l>"<hi>Injuſtice</hi> reigns not in his royal Breaſt,</l>
                <l>
-                  <pb n="16" facs="tcp:011061_0016_0F854B95B2A11AF8"/>
+                  <pb n="16" facs="unknown:011061_0016_0F854B95B2A11AF8"/>
 "Supremely good, compaſionate and brave,</l>
                <l>"None more than he deteſts the Sound of <hi>Slave,</hi>
                </l>
@@ -364,7 +365,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"No pungent Care the People's Peace deſtroy'd,</l>
                <l>"VIRTUE and LIBERTY they long enjoy'd,</l>
                <l>
-                  <pb n="17" facs="tcp:011061_0017_0F854B966296C068"/>
+                  <pb n="17" facs="unknown:011061_0017_0F854B966296C068"/>
 "Unknown to <hi>Vice,</hi> to <hi>Slavery</hi> or to <hi>Shame,</hi>
                </l>
                <l>"They ſlept in <hi>Freedom</hi> and awoke the ſame;</l>
@@ -383,7 +384,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Mark then, my Sons, the certain Fate of ſuch</l>
                <l>"Who think too little and believe too much.</l>
                <l>
-                  <pb n="18" facs="tcp:011061_0018_0F854B97280197A8"/>
+                  <pb n="18" facs="unknown:011061_0018_0F854B97280197A8"/>
 "From their Example let this Maxim riſe,</l>
                <l>"Some may too late, but none too ſoon be wiſe."</l>
                <l>She ceas'd—and cleaving thro' the ambient Air,</l>
@@ -403,7 +404,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>And thus addreſs the ſacred Power divine.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:011061_0019_0F854B9805E74AA0"/>
+               <pb n="19" facs="unknown:011061_0019_0F854B9805E74AA0"/>
                <l>"<hi>Father</hi> of all, inimitably bright,</l>
                <l>"Clad with the Glories of refulgent Light,</l>
                <l>"Thou from whom ev'ry Conſolation ſprings,</l>
@@ -423,7 +424,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Wail not, my Sons, from yonder peaceful Tomb</l>
                <l>"Your Wrongs to mitigate, a Friend I come;</l>
                <l>
-                  <pb n="20" facs="tcp:011061_0020_0F854B98C2F38228"/>
+                  <pb n="20" facs="unknown:011061_0020_0F854B98C2F38228"/>
 "Some Fifty Years in Silence have I ſlept,</l>
                <l>"Nor ſhould have woke, had LIBERTY not wept;</l>
                <l>"But ah! when Frauds your precious <hi>Freedom</hi> ſhook,</l>
@@ -442,7 +443,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"As <hi>Gr-nv-lle</hi> late by ſervile Art aſſay'd</l>
                <l>"Your <hi>Rights</hi> to wound, and <hi>Freedom</hi> to invade;</l>
                <l>
-                  <pb n="21" facs="tcp:011061_0021_0F854B9984467B80"/>
+                  <pb n="21" facs="unknown:011061_0021_0F854B9984467B80"/>
 "While he the Foe of Virtue and her Cauſe,</l>
                <l>"Prepar'd the Poiſon to infect your Laws,</l>
                <l>"To climes unknown the Fatal Rumour ſpread,</l>
@@ -459,7 +460,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Yet hear me on—while <hi>Gr-nv-lle</hi> laid that Plan,</l>
                <l>"Unworthy both the Miniſter and Man;</l>
                <l>
-                  <pb n="22" facs="tcp:011061_0022_0F854B9A27F35350"/>
+                  <pb n="22" facs="unknown:011061_0022_0F854B9A27F35350"/>
 "While he and others bullied for the State,</l>
                <l>"And <hi>Stamps</hi> were ſent the <hi>Harbingers</hi> of Fate;</l>
                <l>"Then venal B-RN—D, ever inſincere,</l>
@@ -475,7 +476,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Let not <hi>Diviſions</hi> damp the gen'rous Flame,</l>
                <l>"But <hi>all</hi> and <hi>one</hi> demand your legal Claim;</l>
                <l>
-                  <pb n="23" facs="tcp:011061_0023_0F854B9AE4CAE648"/>
+                  <pb n="23" facs="unknown:011061_0023_0F854B9AE4CAE648"/>
 "Unalter'd let your LIBERTIES remain,</l>
                <l>"They want not mending which are <hi>juſt</hi> and <hi>plain;</hi>
                </l>
@@ -495,7 +496,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"His <hi>Duty</hi> knew, and prov'd a Friend to <hi>both;</hi>
                </l>
                <l>
-                  <pb n="24" facs="tcp:011061_0024_0F854B9BAB1B04D8"/>
+                  <pb n="24" facs="unknown:011061_0024_0F854B9BAB1B04D8"/>
 "Nor did Heaven's Goodneſs in this Inſtance end,</l>
                <l>"It roſe the PATRIOT, COUNSELLOR and FRIEND:</l>
                <l>"<hi>Conſiderations</hi> on your ſinking Laws,</l>
@@ -514,7 +515,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Could I, my Sons, his juſt Deſerts proclaim,</l>
                <l>"Or ſpeak that <hi>Worth</hi> that ſoars above his Fame,</l>
                <l>
-                  <pb n="25" facs="tcp:011061_0025_0F854B9C613CC230"/>
+                  <pb n="25" facs="unknown:011061_0025_0F854B9C613CC230"/>
 "E'en growling <hi>Envy,</hi> Foe to fair <hi>Renown,</hi>
                </l>
                <l>"With ev'ry Virtue would the Author crown.</l>
@@ -533,7 +534,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>"Yet one Thing more, for ſhort is now my Stay,</l>
                <l>"The Gods have ſummon'd and I muſt obey.</l>
                <l>
-                  <pb n="26" facs="tcp:011061_0026_0F854B9E72841930"/>
+                  <pb n="26" facs="unknown:011061_0026_0F854B9E72841930"/>
 "With <hi>Reſolution</hi> ſtill your Plan purſue,</l>
                <l>"Support the glorious NUMBER NINETY-TWO;</l>
                <l>"On that the <hi>Baſis</hi> of your Bliſs depends,</l>
@@ -555,7 +556,7 @@ While pleaſing Hope itſelf was almoſt fled,</l>
                <l>He ſpake, when ſudden all the <hi>Temple</hi> ſhook,</l>
                <l>As thro' the Iſle his Flight the <hi>Viſion</hi> took;</l>
                <l>
-                  <pb n="27" facs="tcp:011061_0027_0F854B9EC98C1398"/>
+                  <pb n="27" facs="unknown:011061_0027_0F854B9EC98C1398"/>
 Swift as the forked Lightning flies around,</l>
                <l>The <hi>Phantom</hi> tripp'd the Surface of the Ground;</l>
                <l>Enclos'd in Rays divinely pure and bright,</l>
